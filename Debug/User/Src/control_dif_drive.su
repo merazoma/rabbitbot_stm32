@@ -1,0 +1,6 @@
+control_dif_drive.cpp:33:6:void init_dif_drive()	8	static
+control_dif_drive.cpp:38:6:void init_dif_drive_task()	24	static
+control_dif_drive.cpp:59:6:void difDriveTask(void*)	16	static
+control_dif_drive.cpp:94:6:void difDriveCallBack(TimerHandle_t)	16	static
+control_dif_drive.cpp:98:1:void __static_initialization_and_destruction_0(int, int)	16	static
+control_dif_drive.cpp:98:1:cpp)	8	static

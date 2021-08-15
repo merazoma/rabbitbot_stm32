@@ -1,0 +1,3 @@
+simple_math.cpp:35:7:float simple_math::sin(float)	32	static
+simple_math.cpp:53:7:float simple_math::cos(float)	16	static
+simple_math.cpp:58:7:float simple_math::get_mpi_pi(float)	24	static

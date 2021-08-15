@@ -1,0 +1,10 @@
+encoder.cpp:18:1:Encoder::Encoder(motor_id_t, uint16_t, encoder_polarity_t)	16	static
+encoder.cpp:22:1:Encoder::Encoder(const Encoder&)	16	static
+encoder.cpp:26:6:void Encoder::init()	16	static
+encoder.cpp:32:7:float Encoder::get_velocity()	16	static
+encoder.cpp:38:6:void Encoder::count_periodic()	16	static
+encoder.cpp:45:9:int32_t Encoder::calc_count_dif()	16	static
+encoder.cpp:55:7:float Encoder::calc_nrps()	16	static
+encoder.cpp:61:7:float Encoder::calc_rotation_angle()	16	static
+encoder.cpp:68:6:void Encoder::reset_count()	16	static
+encoder.cpp:73:7:float nrps2velocity(float)	16	static

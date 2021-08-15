@@ -1,0 +1,17 @@
+fb_control_motor.cpp:23:1:FeedbackMotorController::FeedbackMotorController(motor_id_t, uint16_t, encoder_polarity_t)	24	static
+fb_control_motor.cpp:30:6:void FeedbackMotorController::init()	16	static
+fb_control_motor.cpp:37:6:void FeedbackMotorController::reset()	16	static
+fb_control_motor.cpp:46:6:void FeedbackMotorController::set_target_velocity(float)	16	static
+fb_control_motor.cpp:56:6:void FeedbackMotorController::fb_control_periodic()	24	static
+fb_control_motor.cpp:81:1:DifferentialDriveController::DifferentialDriveController(uint16_t, robot_direction_t)	24	static
+fb_control_motor.cpp:88:6:void DifferentialDriveController::reset()	16	static
+fb_control_motor.cpp:95:6:void DifferentialDriveController::init()	16	static
+fb_control_motor.cpp:102:6:void DifferentialDriveController::reset_odom()	16	static
+fb_control_motor.cpp:108:6:void DifferentialDriveController::set_cmd_vel(float, float)	24	static
+fb_control_motor.cpp:118:6:void DifferentialDriveController::control_periodic()	16	static
+fb_control_motor.cpp:124:6:void DifferentialDriveController::fb_motor_control_periodic()	16	static
+fb_control_motor.cpp:130:6:void DifferentialDriveController::odom_calc_periodic()	32	static
+fb_control_motor.cpp:149:6:void DifferentialDriveController::get_wheel_angles(double*)	24	static
+fb_control_motor.cpp:155:6:void DifferentialDriveController::get_wheel_angle_velocities(double*)	24	static
+fb_control_motor.cpp:159:1:void __static_initialization_and_destruction_0(int, int)	16	static
+fb_control_motor.cpp:159:1:cpp)	8	static
